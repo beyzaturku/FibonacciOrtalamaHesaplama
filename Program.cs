@@ -28,7 +28,7 @@ namespace FibonacciOrtalamaHesaplama
             double average = (double)sum / n;
             Console.WriteLine("Fibonacci serisindeki sayıların ortalaması:" + average);
 
-            
+            Console.ReadKey();
 
         }
     }
